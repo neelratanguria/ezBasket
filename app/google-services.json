@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "295213100970",
+    "firebase_url": "https://ezbasket-13602.firebaseio.com",
+    "project_id": "ezbasket-13602",
+    "storage_bucket": "ezbasket-13602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295213100970:android:2aa39ccf8fcd7fc5",
+        "android_client_info": {
+          "package_name": "com.devteam000.ezbasket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295213100970-a3ngdoop1ot9oh64576lnlq9vbo6sgdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devteam000.ezbasket",
+            "certificate_hash": "98c56439f37998f2adc2954160b58a1cc895af50"
+          }
+        },
+        {
+          "client_id": "295213100970-7n87q6jci2fh49ihf8a29mirht1tfci4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9WhBEZ42aq7wEBQjsW_jbIakWF_gblZ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295213100970-7n87q6jci2fh49ihf8a29mirht1tfci4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
